@@ -11,7 +11,7 @@ export const FirstScreen = () => {
     <>
       <div className="flex flex-col justify-center items-center gap-4">
         <Image
-          className="w-32 m-auto mt-20 rounded-lg"
+          className="w-32 m-auto mt-10 rounded-lg"
           src={iconZucagram}
           alt="logo zucagram"
         />
