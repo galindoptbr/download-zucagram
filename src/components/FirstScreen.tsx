@@ -28,7 +28,7 @@ export const FirstScreen = () => {
       </div>
       <div className="flex justify-center items-center gap-4 flex-col mt-10">
         <p className="text-center text-xl font-bold">Baixe nosso App agora!</p>
-        <Link href="">
+        <Link href="https://apps.apple.com/pt/app/zucagram/id6503670083?l=en-GB">
           <button className="flex items-center justify-center gap-2 w-[300px] h-10 bg-[#038C4C] rounded-lg font-bold">
             <GrAppleAppStore size={30} />
             DOWNLOAD IOS
